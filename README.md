@@ -3,7 +3,7 @@
 Here are some good stuffs about me:
 
 - 🔭 I’m currently a Customer Support Manager, specialized in processes and projects;
-- 🌱 Being a developer has always been a teenage dream for me. So here I am now;
+- 🌱 Being a developer has always been a teenage dream. So here I am now;
 - 📫 How to reach me: e-mail: duqueronaldo@icloud.com / ronaldo.hauser.dias on instagram;
 - 😄 Pronouns: He/Him
 
