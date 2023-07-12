@@ -1,21 +1,27 @@
-👋 Olá! Bem-vindo(a) à minha página no GitHub.
+### Olá! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+Bem-vindo(a) à minha página no GitHub. 
 
-🖖 Sou Ronaldo, um entusiasta de tecnologia apaixonado por programação. Aqui você encontrará projetos, contribuições e aprendizados da minha jornada como desenvolvedor.
+🖖 Sou Ronaldo, um entusiasta de tecnologia apaixonado por programação. Aqui você encontrará projetos, contribuições e aprendizados da minha jornada como desenvolvedor
 
-🤝 Sinta-se à vontade para explorar meus repositórios e utilizar o que encontrar. Adoro receber feedback e sugestões, então entre em contato comigo. Vamos construir juntos!
+🤝 Sinta-se à vontade para explorar meus repositórios e utilizar o que encontrar
+
+💬 Me pergunte qualquer coisa relacionada a HTML, CSS, Javascript, Typescript, React ou Node.js
+
+⚡ Adoro receber feedback e sugestões, constibuições. Então, entre em contato comigo! Vamos construir juntos!
+
+🔗 &nbsp;**Conecte-se comigo!**
+
+<a href="https://linkedin.com/in/ronaldo-dias-a2895aa5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://instagram.com/ronaldo.hauser.dias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/poisnaoronaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+✨ Minha "Open-source Story):
+
+Graduado em Processos Gerenciais com MBA em Gestão de Projetos;
+Trabalhei em grandes empresas multinacionais como Apple e Nubank;
+Já liderei times pequenos com menos de 10 pessoas, a até times enormes com mais de 300 pessoas;
+Decidi mudar de carreira e me dedicar inteiramente na realização deste que é um sonho antigo: ser um programador!
+
+💪 Acredito fielmente na ideia de que o mundo melhora quando trabalhamos de forma colaborativa, então, tudo aqui é open-source. Você pode acessar meus repositórios, copiar os códigos e contribuir como quiser.
 
 🧑🏻‍💻 Happy coding!
-
-<div
-style="display: inline_block"><br>
-  <img align="center" alt="Ronaldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ronaldo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ronaldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <div> 
-  
-  ##
-  <div>
-  <a href = "https://instagram.com/ronaldo.hauser.dias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:metalronaldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/ronaldo-dias-a2895aa5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
