@@ -15,12 +15,13 @@ Bem-vindo(a) à minha página no GitHub.
 <a href="https://instagram.com/ronaldo.hauser.dias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/poisnaoronaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-✨ Minha "Open-source Story):
+✨ Minha "Open-source Story":
+
+**Decidi mudar de carreira e me dedicar inteiramente na realização deste que é um sonho antigo: ser um programador!**
 
 Graduado em Processos Gerenciais com MBA em Gestão de Projetos;
 Trabalhei em grandes empresas multinacionais como Apple e Nubank;
-Já liderei times pequenos com menos de 10 pessoas, a até times enormes com mais de 300 pessoas;
-Decidi mudar de carreira e me dedicar inteiramente na realização deste que é um sonho antigo: ser um programador!
+Vasta experiência em metodologia Lean, reformulação de processos e condução de projetos;
 
 💪 Acredito fielmente na ideia de que o mundo melhora quando trabalhamos de forma colaborativa, então, tudo aqui é open-source. Você pode acessar meus repositórios, copiar os códigos e contribuir como quiser.
 
