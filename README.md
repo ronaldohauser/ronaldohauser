@@ -1,11 +1,10 @@
-### Hi there! Ronaldo here! 👋
+👋 Olá! Bem-vindo(a) à minha página no GitHub.
 
-Here are some good stuffs about me:
+🖖 Sou Ronaldo, um entusiasta de tecnologia apaixonado por programação. Aqui você encontrará projetos, contribuições e aprendizados da minha jornada como desenvolvedor.
 
-- 🔭 I’m currently a Customer Support Manager, specialized in processes and projects;
-- 🌱 Being a developer has always been a teenage dream. So here I am now;
-- 📫 How to reach me: e-mail: duqueronaldo@icloud.com / ronaldo.hauser.dias on instagram;
-- 😄 Pronouns: He/Him
+🤝 Sinta-se à vontade para explorar meus repositórios e utilizar o que encontrar. Adoro receber feedback e sugestões, então entre em contato comigo. Vamos construir juntos!
+
+🧑🏻‍💻 Happy coding!
 
 <div
 style="display: inline_block"><br>
@@ -17,6 +16,6 @@ style="display: inline_block"><br>
   ##
   <div>
   <a href = "https://instagram.com/ronaldo.hauser.dias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:duqueronaldo@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:metalronaldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/ronaldo-dias-a2895aa5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
