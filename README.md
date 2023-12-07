@@ -23,11 +23,9 @@ Bem-vindo(a) à minha página no GitHub.
 
 **Decidi mudar de carreira e me dedicar inteiramente na realização deste que é um sonho antigo: ser um programador!**
 
-Graduado em Processos Gerenciais com MBA em Gestão de Projetos;
-Trabalhei em grandes empresas multinacionais como Apple e Nubank;
-Vasta experiência em metodologia Lean, reformulação de processos e condução de projetos;
+Sou graduado em Processos Gerenciais com MBA em Gestão de Projetos.Trabalhei em grandes empresas nacionais e multinacionais como Apple, Nubank, Petlove e Foxbit. Tenho vasta experiência em processos, projetos, produtos do mercado financeiro e metodolias ágeis como lean e Agile, aliás, tenho certificação greenbelt;
 
-💪 Acredito fielmente na ideia de que o mundo melhora quando trabalhamos de forma colaborativa, então, tudo aqui é open-source. Você pode acessar meus repositórios, copiar os códigos e contribuir como quiser.
+💪 Acredito fielmente na ideia de que o mundo melhora quando trabalhamos de forma colaborativa, então, tudo aqui é open-source. Você pode acessar meus repositórios, copiar os códigos e contribuir como quiser, desde que os devidos créditos sejam dados, afinal, ideias não tem dono, mas o resultado delas tem.
 
 🧑🏻‍💻 Happy coding!
 
@@ -41,8 +39,6 @@ Vasta experiência em metodologia Lean, reformulação de processos e condução
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
-### Subindo de nível em:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
