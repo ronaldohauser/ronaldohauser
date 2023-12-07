@@ -25,7 +25,7 @@ Bem-vindo(a) à minha página no GitHub.
 
 Sou graduado em Processos Gerenciais com MBA em Gestão de Projetos.Trabalhei em grandes empresas nacionais e multinacionais como Apple, Nubank, Petlove e Foxbit. Tenho vasta experiência em processos, projetos, produtos do mercado financeiro e metodolias ágeis como lean e Agile, aliás, tenho certificação greenbelt;
 
-💪 Acredito fielmente na ideia de que o mundo melhora quando trabalhamos de forma colaborativa, então, tudo aqui é open-source. Você pode acessar meus repositórios, copiar os códigos e contribuir como quiser, desde que os devidos créditos sejam dados, afinal, ideias não tem dono, mas o resultado delas tem.
+💪 Acredito fielmente na ideia de que o mundo melhora quando trabalhamos de forma colaborativa, então, tudo aqui é open-source. Esse é o meu jeito de tentar melhorar o mundo. Você pode acessar meus repositórios, copiar os códigos e contribuir como quiser, desde que os devidos créditos sejam dados, afinal, ideia é um conceito abstrado e não tem dono, mas o resultado tem.
 
 🧑🏻‍💻 Happy coding!
 
