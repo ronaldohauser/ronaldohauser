@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0BFE0&size=35&center=true&vCenter=true&width=1000&lines=Que+bom+te+ver+por+aqui!;+Sou+Ronaldo+Dias,Front-end+Web+Developer;Boas+Vindas!+:%29)](https://git.io/typing-svg)
 
 ### Olá! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Bem-vindo(a) à minha página no GitHub. 
+Bem-vindo(a) à minha página no GitHub.
 
-🖖 Sou Ronaldo, um entusiasta de tecnologia apaixonado por programação. Aqui você encontrará projetos e contribuições da minha jornada como desenvolvedor
+🖖 Eu sou Ronaldo, um entusiasta de tecnologia apaixonado por programação. Aqui, compartilho projetos e contribuições da minha jornada como desenvolvedor.
 
-🤝 Sinta-se à vontade para explorar meus repositórios e utilizar o que encontrar. Só não esqueça dos créditos. Beleza?
+🤝 Fique à vontade para explorar meus repositórios e utilizar o que encontrar. Apenas lembre-se dos créditos, combinado?
 
-💬 Me pergunte qualquer coisa relacionada a HTML, CSS, Javascript, Typescript, React, Node.js etc.
+💬 Estou à disposição para responder qualquer pergunta relacionada a HTML, CSS, JavaScript, TypeScript, React, Node.js, entre outros.
 
-⚡ Aprecio seu feedback e sugestões, caso tenha. Vamos construir juntos!
+⚡ Valorizo muito seu feedback e sugestões. Se tiver algum, vamos construir juntos!
 
 🔗 &nbsp;**Conecte-se comigo!**
 
@@ -19,13 +19,13 @@ Bem-vindo(a) à minha página no GitHub.
 <a href="https://instagram.com/ronaldo.hauser.dias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/poisnaoronaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-✨ Minha "Open-source Story":
+✨ Minha breve historia com a programação:
 
-**Decidi mudar de carreira e me dedicar inteiramente na realização deste que é um sonho antigo: ser um programador!**
+Como muitos, faço parte do grupo de pessoas que precisou estudar algo que não necessariamente gostava, mas que nos colocava no mercado de trabalho e pagava nossas contas. Pós-graduado em Gestão de Projetos e Processos Gerenciais, trabalhei em grandes empresas nacionais e multinacionais varegistas, como Apple e Petlove, e também no ramo financeiro centralizado e descentralizado, como Nubank e Foxbit. Essas experiências me proporcionaram uma base sólida, mas sempre mantive o olhar no horizonte, almejando um sonho antigo: tornar-me um desenvolvedor.
 
-Sou graduado em Processos Gerenciais com MBA em Gestão de Projetos.Trabalhei em grandes empresas nacionais e multinacionais como Apple, Nubank, Petlove e Foxbit. Tenho vasta experiência em processos, projetos, produtos do mercado financeiro e metodolias ágeis como lean e Agile, aliás, tenho certificação greenbelt;
+Hoje, posso afirmar que esse sonho se realizou! Transitei do mundo corporativo para o universo dinâmico da programação front-end, mantendo os pés no chão, mas nunca deixando de voar alto.
 
-💪 Acredito fielmente na ideia de que o mundo melhora quando trabalhamos de forma colaborativa, então, tudo aqui é open-source. Esse é o meu jeito de tentar melhorar o mundo. Você pode acessar meus repositórios, copiar os códigos e contribuir como quiser, desde que os devidos créditos sejam dados, afinal, ideia é um conceito abstrado e não tem dono, mas o resultado tem.
+💪 Acredito firmemente na ideia de que o mundo melhora quando trabalhamos de forma colaborativa. Por isso, tudo o que desenvolvo é open-source. Esta é a minha maneira de contribuir para a comunidade e fazer a diferença. Sinta-se à vontade para explorar meus repositórios, copiar códigos e contribuir como desejar. Lembre-se sempre de dar os devidos créditos, pois a ideia é um conceito abstrato e não tem dono, mas o resultado é compartilhado por todos."
 
 🧑🏻‍💻 Happy coding!
 
