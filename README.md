@@ -5,23 +5,27 @@
 ### Olá! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Bem-vindo(a) à minha página no GitHub.
 
-🖖 Eu sou Ronaldo, um entusiasta de tecnologia apaixonado por programação. Aqui, compartilho meus projetos e contribuições.
+🖖 Eu sou Ronaldo, desenvolvedor Full-Stack com experiência em várias tecnologias, trabalhando em projetos que envolvem tanto o front-end quanto o back-end. Além disso, possuo um histórico de colaboração com empresas como Apple e Nubank, onde aprimorei minhas habilidades em desenvolvimento e gestão de processos.
 
+💼 Atualmente:
+
+Trabalhando em projetos inovadores, como o desenvolvimento de um app de protocolo vacinal para pets.
+Aperfeiçoando meu conhecimento em Java Full-Stack, enquanto continuo a minha trajetória como freelancer.
+Apto a trabalhar em projetos desafiadores e focado na entrega de soluções eficientes e de qualidade.
 🤝 Explore meus repositórios e utilize o que achar útil, mas lembre-se de dar os devidos créditos!
 
-💬 Estou à disposição para responder perguntas sobre HTML, CSS, JavaScript, TypeScript, React, Node.js e mais.
+💬 Estou à disposição para responder perguntas sobre HTML, CSS, JavaScript, TypeScript, React, Node.js e muito mais.
 
 ⚡ Valorizo seu feedback e sugestões. Vamos construir juntos!
-
 🔗 **Conecte-se comigo!**
 
 <a href="https://www.linkedin.com/in/ronaldo-hauser-dias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ronaldo" height="30" width="40" /></a>
 <a href="https://instagram.com/ronaldo.hauser.dias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ronaldo" height="30" width="40" /></a>
 <a href="https://twitter.com/poisnaoronaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ronaldo" height="30" width="40" /></a>
 
-✨ **Minha jornada na programação:**
+✨ Minha jornada na programação:
 
-Depois de me graduar em Gestão de Projetos e Processos, trabalhei em grandes empresas como Apple e Nubank. No entanto, sempre sonhei em ser desenvolvedor. Hoje, estou imerso no mundo da programação front-end, transformando meu sonho em realidade.
+Após me graduar em Gestão de Projetos e Processos, trabalhei em grandes empresas como Apple e Nubank. No entanto, sempre sonhei em ser desenvolvedor. Hoje, estou imerso no mundo da programação, com foco tanto no desenvolvimento front-end quanto no back-end, e continuo crescendo em minha carreira como desenvolvedor Full-Stack.
 
 💪 Acredito na colaboração e no open-source. Sinta-se à vontade para explorar meus projetos, copiar códigos e contribuir. O crédito é importante!
 
